@@ -1,11 +1,12 @@
-package Project;
+package com.tns.assigment2;
+
 
 public class Student {
-	 Student(){
+	Student(){
 		 System.out.println("The object of student is created");
 	 }
 		public static void main(String[] args) {
 			Student xc=new Student();
-			// TODO Auto-generated method stub
-		}
 	}
+
+}
