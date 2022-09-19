@@ -8,5 +8,4 @@ public class Student {
 			@SuppressWarnings("unused")
 			Student xc=new Student();
 	}
-
 }
