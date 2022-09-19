@@ -7,8 +7,7 @@ public class Volume {
 		int vol=r*r*r;
 		return vol;
 	 }
-	 int volu(int l, int b, int h)
-	 
+	 int volu(int l, int b, int h) 
 	 {
 		 int vol=l*b*h;
 		 return vol; 
