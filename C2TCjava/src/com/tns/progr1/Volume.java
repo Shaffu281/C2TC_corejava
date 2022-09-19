@@ -1,8 +1,7 @@
 package com.tns.progr1;
 
 public class Volume {
-
-	 int volu(int r)
+ int volu(int r)
 	 {
 		int vol=r*r*r;
 		return vol;
