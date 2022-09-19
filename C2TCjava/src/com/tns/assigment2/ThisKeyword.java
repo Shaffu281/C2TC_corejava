@@ -1,6 +1,5 @@
 package com.tns.assigment2;
 
-import Project.ThisKeyWord;
 
 public class ThisKeyword {
 	int c;
