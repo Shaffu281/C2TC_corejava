@@ -10,9 +10,6 @@ public class ThisKeyWord {
 	public static void main(String[] args) {
 		ThisKeyWord vc=new ThisKeyWord(5);
 		System.out.println("the value of this c is ="+vc.c);
-		
-		// TODO Auto-generated method stub
-
 	}
 
 }
