@@ -11,8 +11,7 @@ public class Volume {
 	 
 	 {
 		 int vol=l*b*h;
-		 return vol;
-		 
+		 return vol; 
 	 }
 	 double volu(double r)
 	 {
