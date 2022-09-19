@@ -24,5 +24,4 @@ public class Volume {
  System.out.println("The Volume of Sphere is" +obj.volu(5));
 
 	}
-
 }
