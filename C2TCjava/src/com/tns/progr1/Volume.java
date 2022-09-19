@@ -15,7 +15,6 @@ public class Volume {
 	 {
 		 double vol=(4/3)*3.14*r*r*r;
 		 return vol;
-		 
 	 }
 	public static void main(String[] args) {
  Volume obj=new Volume();
@@ -24,4 +23,5 @@ public class Volume {
  System.out.println("The Volume of Sphere is" +obj.volu(5));
 
 	}
+	
 }
