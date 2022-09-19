@@ -1,6 +1,5 @@
 package com.tns.assigment2;
 
-
 public class Student {
 	Student(){
 		 System.out.println("The object of student is created");
