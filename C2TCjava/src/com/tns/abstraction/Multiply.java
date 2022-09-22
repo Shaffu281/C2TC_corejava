@@ -8,3 +8,4 @@ void calculate(int a, int b)
 	System.out.println("Multply" +z);
 }
 }
+
