@@ -6,7 +6,6 @@ public class Counter {
 		Counter ()
 		{
 			x++;
-		
 		}
 		void display()
 		{
