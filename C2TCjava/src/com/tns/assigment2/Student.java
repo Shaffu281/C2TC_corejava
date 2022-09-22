@@ -6,6 +6,7 @@ public class Student {
 	 }
 		public static void main(String[] args)
 		{
+			@SuppressWarnings("unused")
 			Student xc=new Student();
 	}
 }
