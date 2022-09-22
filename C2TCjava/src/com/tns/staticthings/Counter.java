@@ -12,7 +12,6 @@ public class Counter {
 		{
 			System.out.println(x);
 		}
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Counter c1 = new Counter();
