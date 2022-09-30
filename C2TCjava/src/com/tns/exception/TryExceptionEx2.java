@@ -1,5 +1,4 @@
 package com.tns.exception;
-
 public class TryExceptionEx2 { 
 public static void main(String[] args) 
 {

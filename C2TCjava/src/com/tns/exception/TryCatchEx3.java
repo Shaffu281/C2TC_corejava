@@ -10,7 +10,7 @@ public class TryCatchEx3 {
 			System.out.println("111");
 			int z = x/y;
 			System.out.println("Result of z:"+z);
-			
+		
 		}
 			catch(ArithmeticException ae)
 			{

@@ -13,10 +13,10 @@ public static void main(String[] args)
 			  catch(ArithmeticException ae)
 			Object.
 			{
-				System.out.println("A number cannot be divide by zero");
+			System.out.println("A number cannot be divide by zero");
 			}
 			
-				System.out.println("22");
+			System.out.println("22");
 			}
       }
 

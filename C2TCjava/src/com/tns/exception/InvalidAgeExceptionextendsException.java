@@ -10,7 +10,7 @@ public class InvalidAgeExceptionextendsException {
 		age = sc.nextLine();
 		System.out.println("Welcome to vote");
 	}
-		// TODO Auto-generated method stub
+	// TODO Auto-generated method stub
 
 	public static void main(String[] args)
 	{
